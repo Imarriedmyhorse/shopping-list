@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shopping List</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <meta name="theme-color" content="#1f6b45">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <button id="theme" aria-label="Switch light or dark mode">🌓</button>
+    <p class="count-number" id="count">–</p>
+    <p class="count-label" id="count-label">Loading your list…</p>
+    <p class="updated" id="updated"></p>
+  </header>
+
+  <main>
+    <section id="need"></section>
+
+    <details id="have-box">
+      <summary>Have enough <span id="have-count"></span></summary>
+      <div id="have"></div>
+    </details>
+
+    <p id="message" hidden></p>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
