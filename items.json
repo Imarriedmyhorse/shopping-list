@@ -2,7 +2,7 @@
   "items": [
     { "name": "Wine (Sauvignon Blanc)", "emoji": "🍷", "category": "Drinks",        "need": true  },
     { "name": "Water",          "emoji": "💧", "category": "Drinks",        "need": false },
-    { "name": "Coffee",         "emoji": "☕", "category": "Drinks",        "need": true  },
+    { "name": "Coffee",         "emoji": "☕", "category": "Drinks",        "need": false  },
 
     { "name": "Bell peppers",   "emoji": "🫑", "category": "Fruit & veg",   "need": false },
     { "name": "Onions",         "emoji": "🧅", "category": "Fruit & veg",   "need": true  },
