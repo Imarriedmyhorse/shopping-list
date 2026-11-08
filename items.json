@@ -25,7 +25,7 @@
 
     { "name": "Bread",          "emoji": "🍞", "category": "Bakery",        "need": true  },
 
-    { "name": "Rice",           "emoji": "🍚", "category": "Cupboard",      "need": false },
+    { "name": "Rice",           "emoji": "🍚", "category": "Cupboard",      "need": true },
     { "name": "Noodles",        "emoji": "🍜", "category": "Cupboard",      "need": false },
     { "name": "Tinned tomatoes","emoji": "🥫", "category": "Cupboard",      "need": false },
     { "name": "Salt",           "emoji": "🧂", "category": "Cupboard",      "need": false },
