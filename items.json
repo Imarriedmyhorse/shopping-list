@@ -10,7 +10,7 @@
 
     { "name": "Apples",         "emoji": "🍎", "category": "Fruit & veg",   "need": false  },
 
-    { "name": "Bell peppers",   "emoji": "🫑", "category": "Fruit & veg",   "need": true },
+    { "name": "Bell peppers",   "emoji": "🫑", "category": "Fruit & veg",   "need": false },
     { "name": "Onions",         "emoji": "🧅", "category": "Fruit & veg",   "need": false },
     { "name": "Potatoes",       "emoji": "🥔", "category": "Fruit & veg",   "need": true },
     { "name": "Carrots",        "emoji": "🥕", "category": "Fruit & veg",   "need": true },
@@ -39,7 +39,7 @@
     { "name": "Pasta",          "emoji": "🍝", "category": "Cupboard",      "need": false },
     { "name": "Salt",           "emoji": "🧂", "category": "Cupboard",      "need": false },
     { "name": "Pepper",         "emoji": "🌶️", "category": "Cupboard",      "need": false },
-    { "name": "Mustard",        "emoji": "🟡", "category": "Cupboard",      "need": true },
+    { "name": "Mustard",        "emoji": "🟡", "category": "Cupboard",      "need": false },
     { "name": "Crisps",         "emoji": "🥔", "category": "Snacks",        "need": false },
 
     { "name": "Toilet roll",    "emoji": "🧻", "category": "Household",     "need": false },
